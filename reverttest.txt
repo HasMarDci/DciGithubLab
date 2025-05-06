@@ -1,0 +1,2 @@
+this file is fo trying revert function in git
+ this is a new text to try diff
